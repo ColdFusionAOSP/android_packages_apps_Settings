@@ -44,3 +44,7 @@
     <string name="zancerne_wall">Cold Fusion disigner wallpaper</string>
 </resources>
 
+     <!-- Enabled by Default Dev option -->
+    <string name="show_dev_already_enabled">No need, development settings are enabled by default.</string>
+</resources>
+
