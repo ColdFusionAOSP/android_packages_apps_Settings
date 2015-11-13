@@ -43,6 +43,18 @@
     <string name="zancerne">Zan Cerne</string>
     <string name="zancerne_wall">Cold Fusion disigner wallpaper</string>
 
+    <!-- Generic strings -->
+    <string name="ok_string">OK</string>
+    <string name="reset_string">Reset</string>
+    <string name="empty_string">Empty</string>
+    <string name="font_size_sample">Sample</string>
+    <string name="attention">Attention</string>
+    <string name="default_string">Default</string>
+    <string name="enabled_string">Enabled</string>
+    <string name="disabled_string">Disabled</string>
+    <string name="general_string">General</string>
+   
+
     <!-- About screen, Coldfusion build date -->
     <string name="coldfusion_date">ColdFusion release date</string>
     <string name="coldfusion_date_default">2015-01-01-0000</string>
