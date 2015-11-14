@@ -18,26 +18,29 @@
 
      <!-- PowerMenu entries -->
     <string-array name="power_menu_actions_array" translatable="false">
-       <item>power</item>
-       <item>reboot</item>
-       <item>screenshot</item>
-       <item>airplane</item>
-       <item>users</item>
-       <item>settings</item>
-       <item>lockdown</item>
-       <item>assist</item>
-       <item>voiceassist</item>
-       <item>silent</item>
+        <item>power</item>
+        <item>reboot</item>
+        <item>screenshot</item>
+        <item>airplane</item>
+        <item>users</item>
+        <item>settings</item>
+        <item>lockdown</item>
+        <item>assist</item>
+        <item>voiceassist</item>
+        <item>silent</item>
+    </string-array>
 
     <!-- Clock and date -->
     <string-array name="clock_style_entries" translatable="false">
         <item>@string/right_clock</item>
         <item>@string/center_clock</item>
+        <item>@string/left_clock</item>
     </string-array>
 
     <string-array name="clock_style_values" translatable="false">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
     </string-array>
 
     <string-array name="entries_status_bar_am_pm">
@@ -96,6 +99,7 @@
         <item>EEEE dd/MM</item>
         <item>EEEE MM/dd</item>
         <item>@string/clock_date_format_custom</item>
+    </string-array>
 
     <!-- Quick pulldown -->
     <string-array name="quick_pulldown_entries" translatable="false">
