@@ -8,6 +8,7 @@
         android:key="clock_style_pref"
         android:title="@string/status_bar_clock"
 	    android:summary="@string/status_bar_clock_summary" />
+    </PreferenceCategory>
     
     <PreferenceCategory
         android:key="weather_clock_category"
@@ -26,6 +27,8 @@
             <intent android:action="android.intent.action.MAIN"
         android:targetPackage="com.cyanogenmod.lockclock"
         android:targetClass="com.cyanogenmod.lockclock.preference.Preferences" />
+    	</PreferenceScreen>
+    </PreferenceCategory>
 
     <PreferenceCategory
         android:key="category_statusbar_options"
@@ -37,7 +40,7 @@
         android:entries="@array/quick_pulldown_entries"
         android:entryValues="@array/quick_pulldown_values"
         android:persistent="false" />
-    	</PreferenceScreen>
+
     </PreferenceCategory>
 
 </PreferenceScreen>

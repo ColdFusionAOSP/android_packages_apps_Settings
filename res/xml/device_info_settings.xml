@@ -20,8 +20,8 @@
         <!-- Coldfusion about -->
         <PreferenceScreen
             android:key="about_coldfusion"
-            android:fragment="com.android.settings.colfusion.about"
-            android:title="@string/coldfusion_about"
+            android:fragment="com.android.settings.about.coldfusion"
+            android:title="@string/about_coldfusion"
             android:summary="@string/coldfusion_about_summary" />
 
         <!-- Device status - launches activity -->

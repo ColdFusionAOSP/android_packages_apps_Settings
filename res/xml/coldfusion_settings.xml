@@ -19,7 +19,7 @@
    
     <PreferenceScreen
         android:key="lock_screen_general_category"
-        android:fragment="com.android.settings.chroma.LockScreenSettings"
+        android:fragment="com.android.settings.coldfusion.LockScreenSettings"
         android:title="@string/lockscreen_title" />    
    
 </PreferenceCategory>

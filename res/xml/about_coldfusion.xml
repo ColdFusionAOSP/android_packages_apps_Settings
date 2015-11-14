@@ -50,7 +50,7 @@
             android:title="@string/donate">
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=56WM3FWGSLY2N" />
+                android:data="http://forum.xda-developers.com/donatetome.php?u=3305391" />
         </Preference>
 
     </PreferenceCategory>
